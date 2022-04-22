@@ -21,7 +21,7 @@
 > Vue2 版本请看 [tag-V4.2.0](https://github.com/lin-xin/vue-manage-system/tree/V4.2.0)
 
 [English document](https://github.com/lin-xin/manage-system/blob/master/README_EN.md)
-
+Element Plus https://element-plus.gitee.io/zh-CN/
 ## 项目截图
 
 ### 登录
